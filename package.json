@@ -13,5 +13,14 @@
   "dependencies": {
     "colors": "^1.2.1",
     "formidable": "^1.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elwira-m/Zadanie13.9.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elwira-m/Zadanie13.9/issues"
+  },
+  "homepage": "https://github.com/elwira-m/Zadanie13.9#readme"
 }
